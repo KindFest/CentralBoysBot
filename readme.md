@@ -21,3 +21,5 @@ _All informational messages (useless for chat) are deleted after 3 seconds. To d
     - ADMIN_ID
 - Upload files to the server and run main.py
 - ✨Magic ✨
+
+## Working BOT: https://t.me/CentralBoysBot
