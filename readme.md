@@ -23,3 +23,5 @@ _All informational messages (useless for chat) are deleted after 3 seconds. To d
 - ✨Magic ✨
 
 ## Working BOT: https://t.me/CentralBoysBot
+
+PS: BOT uses Russian.
